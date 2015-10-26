@@ -10,8 +10,8 @@ body, table, form, input, td, th, p, textarea, select {
     font-family: "DIN Regular",Arial,Helvetica,sans-serif;
 }
 
-h1 {
-    color: rgb(99,123,137)
+h1, h2, h3 {
+    color: rgb(89,113,127)
 }
 
 #header .logo {
