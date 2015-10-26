@@ -15,11 +15,10 @@ h1, h2, h3 {
 }
 
 #header .logo {
-    background: url("https://dgpnghoac0a43.cloudfront.net/typo3conf/ext/aoe_template/i/aoe-logo.png");
-    background-size: calc(246px/1.7) calc(55px/1.7);
-    background-position: 2px 3px;
+    background: url("logo+jenkins.png");
+    background-position: 2px 2px;
     background-repeat: no-repeat;
-    width: 200px;
+    width: 459px;
 }
 #header .logo img { display: none }
 
