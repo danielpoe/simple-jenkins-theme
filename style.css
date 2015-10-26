@@ -17,6 +17,7 @@ h1, h2, h3 {
 #header .logo {
     background: url("logo+jenkins.png");
     background-position: 2px 2px;
+    background-size: 459px 33px;
     background-repeat: no-repeat;
     width: 459px;
 }
