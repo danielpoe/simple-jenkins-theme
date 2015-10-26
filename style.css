@@ -1,0 +1,41 @@
+#header {
+    background-color: #eee;
+}
+#header .login a {
+    color: #999;
+}
+
+body, table, form, input, td, th, p, textarea, select {
+    font-family: "DIN Regular",Arial,Helvetica,sans-serif;
+}
+
+h1 {
+    color: rgb(99,123,137)
+}
+
+#header .logo {
+    background: url("https://dgpnghoac0a43.cloudfront.net/typo3conf/ext/aoe_template/i/aoe-logo.png");
+    background-size: calc(246px/1.7) calc(55px/1.7);
+    background-position: 2px 3px;
+    background-repeat: no-repeat;
+    width: 200px;
+}
+#header .logo img { display: none }
+
+.top-sticker .top-sticker-inner {
+    background-color: rgb(134,147,155);
+}
+.top-sticker .top-sticker-inner ,
+.top-sticker .top-sticker-inner #breadcrumbs LI a,
+.top-sticker .top-sticker-inner #breadcrumbs LI {
+    color: #fff
+}
+
+.bigtable th {
+    background-color: rgb(234,237,239);
+}
+
+.tabBar [type=radio]:checked ~ a {
+    background: rgb(214,96,7);
+    color: #fff;
+}
