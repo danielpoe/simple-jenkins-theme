@@ -1,7 +1,8 @@
 #header {
     background-color: #eee;
 }
-#header .login a {
+#header .login a,
+#header .login a:visited{
     color: #999;
 }
 
